@@ -1,2 +1,2 @@
 # new project
-this project is create from local
+this project is create from local.
